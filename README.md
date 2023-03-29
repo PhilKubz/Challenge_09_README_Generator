@@ -36,11 +36,15 @@ THEN I am taken to the corresponding section of the README
 ## Video Demonstration
 [Video Demonstration.webm](https://user-images.githubusercontent.com/122698773/228424001-39e9bcc9-9496-4827-92e3-34b86ba6e697.webm)
 
+The video outline how to get to the temrinal in vscode, use a `npm install` command, and invoke the program using `node index`.
+All prompts are answered during this demonstration, and by clicking on one of the elements in the table of contents it shows that the links to sections are properly functioning.
+
 
 ## Installation
 1. Clone the repository on your local machine.
 2. Navigate to the root directory of the application in your terminal.
-3. Run `npm install` to install the required dependencies.
+3. In order to install inquirer, please use `npm i inquirer@8.2.4`.
+4. Run `npm install` to install the required dependencies.
 
 ## Usage
 1. Navigate to the root directory of the application in your terminal.
@@ -61,6 +65,10 @@ These are some additional criteria that are necessary for proper execution of th
 * A `.gitignore` file must be created that includes `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Create the `.gitignore` file before doing an `npm install`.
 
 * The repo must include a `package.json` with the required dependencies. By using the `npm init` command you will establish this for usage.
+
+* Of the information used in this process, the Usaer Story and Acceptance Criteria were used as given from the prompt to display clarity of the program
+
+* The sample README.md created form this program is located inside the 'Develop' folder. This is the exact README.md file created in this video demonstration.
 
 
 
