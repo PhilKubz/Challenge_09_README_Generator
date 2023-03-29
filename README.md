@@ -34,6 +34,7 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Video Demonstration
+[Video Demonstration.webm](https://user-images.githubusercontent.com/122698773/228424001-39e9bcc9-9496-4827-92e3-34b86ba6e697.webm)
 
 
 ## Installation
@@ -43,13 +44,14 @@ THEN I am taken to the corresponding section of the README
 
 ## Usage
 1. Navigate to the root directory of the application in your terminal.
-2. Run node index.js to start the application.
-3. Answer the prompts to generate a professional README file.
-4. The application will be invoked by using the following command:
+2. The application will be invoked by using the following command:
 
 ```bash
-node index.js
+node index
 ```
+
+3. Answer the prompts to generate a professional README file.
+
 
 
 ## Things to Note
