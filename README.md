@@ -66,7 +66,7 @@ These are some additional criteria that are necessary for proper execution of th
 
 * The repo must include a `package.json` with the required dependencies. By using the `npm init` command you will establish this for usage.
 
-* Of the information used in this process, the Usaer Story and Acceptance Criteria were used as given from the prompt to display clarity of the program
+* Of the information used in this process, the Usaer Story and Acceptance Criteria were used as given from the prompt to display clarity of the program.
 
 * The sample README.md created form this program is located inside the 'Develop' folder. This is the exact README.md file created in this video demonstration.
 
